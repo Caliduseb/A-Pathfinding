@@ -4,11 +4,6 @@ import com.sebi.gui.*;
 
 import java.util.ArrayList;
 
-
-
-
-
-
 public class computeAstar
 {
     public static ArrayList<Box> AllWayPoints;

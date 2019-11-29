@@ -6,7 +6,7 @@ public class gui
 {
     public static JFrame Frame;
 
-    public gui() {
+    public static void gui() {
         Frame = new JFrame("A* Pathfinding");
         Frame.setDefaultCloseOperation(3);
         Frame.setSize(800, 450);
