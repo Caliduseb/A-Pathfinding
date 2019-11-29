@@ -7,4 +7,4 @@ lots of bugs and, I think, even fundamental Math Problems, but I'll keep on work
 If you want to see a working version check out [Devon Crawfords](https://www.youtube.com/watch?v=1-YPj5Vt0oQ)
 project.
 
-![ScreenShot of the GUI window](docs/Screenshot.jpg)
+![ScreenShot of the GUI window](/docs/Screenshot.jpg)
